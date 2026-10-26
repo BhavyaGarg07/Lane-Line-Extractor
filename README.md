@@ -56,6 +56,4 @@ Learning Outcome
 
 This project demonstrates the basic steps of a classical computer vision pipeline and how image processing techniques can be combined to highlight lane markings in road images.
 
-Learning Outcome
 
-This project demonstrates the basic steps of a c
